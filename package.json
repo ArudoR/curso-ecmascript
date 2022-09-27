@@ -16,6 +16,7 @@
   ],
   "author": "ArudoR <aldonear@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/ArudoR/curso-ecmascript/issues"
   },
